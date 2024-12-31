@@ -1,0 +1,67 @@
+
+.logo img{
+  height: 60px;
+  width: 60px;
+  box-shadow: 2px 2px 2px 2px black;
+  border-radius: 100px;
+}
+.navbar-brand h3{
+  color: green;
+  font-weight: bold;
+}
+.box{
+  background-image: linear-gradient(to right,pink,purple);
+  width: 600px;
+
+
+}
+.heading{
+  color: white;
+  text-shadow: 1px 1px 1px black;
+  font-weight: bold;
+  font-size: 40px;
+}
+.input-group{
+  margin-top: 20px;
+}
+#city-name{
+  color: yellow;
+  font-weight: bold;
+  font-size: 40px;
+  text-shadow: 2px 1px 1px black;
+  font-family:'Times New Roman', Times, serif;
+}
+.date{
+  color: white;
+}
+#temperature{
+  color: yellow;
+  font-weight:bold;
+  font-size:45px;
+  text-shadow: 1px 2px 1px black;
+  font-family:'Times New Roman', Times, serif;
+}
+#description{
+  color: yellow;
+  font-weight:bold;
+  font-size:20px;
+}
+#wind-speed{
+  color: white;
+  font-size:15px;
+}
+#Humidity{
+  color: white;
+  font-size:15px;
+}
+#Pressure{
+  color: white;
+  font-size:15px;
+}
+#weather-icon{
+ height: 100px;
+ width: 100px;
+  box-shadow: 2px 2px 2px 2px black;
+  border-radius: 30px;
+  background-image: linear-gradient(to bottom, yellow,green);
+}
